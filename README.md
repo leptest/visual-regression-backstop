@@ -1,9 +1,20 @@
 ### Getting started
+
+Install the packages:
 ```
 npm install
-npm reference (this has already been run in the project)
+```
+
+Set up reference images (already done, but you can run it again):
+```
+npm run reference
+```
+
+Run a new test:
+```
 npm run test
 ```
+
 
 ### Moving forward
 ```

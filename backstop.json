@@ -16,7 +16,7 @@
   "onReadyScript": "puppet/onReady.js",
   "scenarios": [
     {
-      "label": "BackstopJS Homepage",
+      "label": "BackstopJS",
       "cookiePath": "backstop_data/engine_scripts/cookies.json",
       "url": "https://garris.github.io/BackstopJS/",
       "referenceUrl": "",
@@ -35,7 +35,7 @@
       "requireSameDimensions": true
     },
     {
-      "label": "http://getbootstrap.com",
+      "label": "Bootstrap",
       "url": "http://getbootstrap.com",
       "hideSelectors": [],
       "removeSelectors": [
@@ -44,14 +44,22 @@
       "selectors": [
           "header",
           "main",
-          ".masthead-followup > .col-12:nth-of-type(1)",
-          ".masthead-followup > .col-12:nth-of-type(2)",
           "footer",
-          "body"
+          ".masthead-followup > .col-12:nth-of-type(1)",
+          ".masthead-followup > .col-12:nth-of-type(2)"
       ],
       "readyEvent": null,
-      "delay": 500,
+      "delay": 3000,
       "misMatchThreshold": 0.1
+    },
+    {
+      "label": "Guerilla",
+      "url": "https://guerrilla.com.au/",
+      "selectors": [
+          ".intro",
+          ".home-feature"
+      ],
+      "delay": 3000
     }
   ],
   "paths": {
