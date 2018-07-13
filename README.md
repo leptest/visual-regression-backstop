@@ -1,6 +1,7 @@
 ### Getting started
 ```
 npm install
+npm reference (this has already been run in the project)
 npm run test
 ```
 
