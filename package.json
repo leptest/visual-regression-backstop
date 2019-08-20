@@ -11,6 +11,6 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "backstopjs": "4.1.9"
+    "backstopjs": "4.1.12"
   }
 }
