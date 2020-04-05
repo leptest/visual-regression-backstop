@@ -6,11 +6,16 @@
   "scripts": {
     "reference": "backstop reference",
     "test": "backstop test",
-    "approve": "backstop approve"
+    "approve": "backstop approve",
+    "eslint": "eslint --ext .jsx,.js .",
+    "eslint-fix": "eslint --ext .jsx,.js --fix ."
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
     "backstopjs": "4.5.0"
+  },
+  "devDependencies": {
+    "@leptest/eslint-config-leptest": "1.0.1"
   }
 }
