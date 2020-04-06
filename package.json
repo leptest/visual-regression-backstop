@@ -16,6 +16,6 @@
     "backstopjs": "4.5.0"
   },
   "devDependencies": {
-    "@leptest/eslint-config-leptest": "1.0.1"
+    "@leptest/eslint-config-leptest": "1.0.4"
   }
 }
