@@ -1143,10 +1143,10 @@ babel-runtime@^6.23.0, babel-runtime@^6.26.0:
     core-js "^2.4.0"
     regenerator-runtime "^0.11.0"
 
-backstopjs@4.5.0:
-  version "4.5.0"
-  resolved "https://registry.yarnpkg.com/backstopjs/-/backstopjs-4.5.0.tgz#e78e003edcfa44512f4213cca819d71bc58dce74"
-  integrity sha512-SFUKggj89E7tY6IKiiRrvdJaur0ocqUZr3NRBB5cgpCXiOOhU9DrKsM/omlFDZsDqs4ieX4qjg+hj5l8NoPGXQ==
+backstopjs@4.5.1:
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/backstopjs/-/backstopjs-4.5.1.tgz#4cab6f5e9996d8c32b2620904a05dd3d381e7994"
+  integrity sha512-+4hSFKjyXvKWZk1+V9Letibl8mWkh6zLIiSg02ztP6/rE515PfTs06cXIkC0t5GccL2subiPzHnc6zOuRU95lQ==
   dependencies:
     chalk "^1.1.3"
     chromy "0.5.11"
