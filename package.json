@@ -13,9 +13,9 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "backstopjs": "4.5.0"
+    "backstopjs": "5.0.1"
   },
   "devDependencies": {
-    "@leptest/eslint-config-leptest": "1.0.1"
+    "@leptest/eslint-config-leptest": "1.0.5"
   }
 }
