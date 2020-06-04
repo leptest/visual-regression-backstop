@@ -15,6 +15,8 @@ Run a new test:
 npm run test
 ```
 
+Then you can view the generated report at `.\backstop_data\html_report\index.html`
+
 
 ### Moving forward
 ```
