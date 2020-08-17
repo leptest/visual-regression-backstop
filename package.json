@@ -13,7 +13,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "backstopjs": "5.0.1"
+    "backstopjs": "5.0.4"
   },
   "devDependencies": {
     "@leptest/eslint-config-leptest": "1.0.5"
