@@ -3,4 +3,5 @@ public/*
 node_modules/*
 dist/*
 artifacts/*
+docs/*
 backstop_data/*
